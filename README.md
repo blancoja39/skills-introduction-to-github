@@ -1,4 +1,4 @@
-<header>
+<PBP Header>
 
 <!--
   <<< Author notes: Course header >>>
